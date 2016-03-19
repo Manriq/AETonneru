@@ -1,2 +1,2 @@
 # AETonneru
-AETonneru is a software to design tunnel under Japanese Railway Insitute Code
+AETonneru is a software to design bored tunnel's reinforced concrete arrangment according to the Japanese Railway Institute
